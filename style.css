@@ -1,3 +1,133 @@
 body {
-    font-family: "Open Sans", sans-serif;
-}
+    font-family: "Open Sans";
+    text-align: center;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Open Sans-Bold";
+  }
+  
+  p {
+    color: #8f8f8f;
+  }
+
+/* Sections */
+
+.couleur {
+    background-color:#6a097d ;
+    color: #fff;
+  }
+  
+  .blanc {
+    background-color:#fff ;
+  }
+
+  
+
+  /* Headings */
+
+.big-heading {
+    font-family: "Open Sans-Black";
+    font-size: 3.5rem;
+    line-height: 1.5;
+  }
+
+  
+  /* Title Section */
+
+#title {
+    background-color: #6a097d;
+    color: #fff;
+    text-align: left;
+  }
+  
+  #title .container-fluid {
+    padding: 3% 15% 7%;
+  }
+
+  /* Navigation Bar */
+
+.navbar {
+    padding: 0 0 4.5rem;
+  }
+  
+  .navbar-brand {
+    font-family: "Montserrat";
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .nav-item {
+    padding: 0 18px;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+    font-family: "Open Sans-Light";
+  }
+
+  /* Containers */
+
+.container-fluid{
+    padding: 7% 15%;
+  }
+
+  /* Features Section */
+
+#features {
+    position: relative;
+  }
+  
+  .feature-title {
+    font-size: 1.5rem;
+  }
+  
+  .feature-box {
+    padding: 4.5%;
+  }
+  
+  .icon {
+    color :#c060a1;
+    margin-bottom: 1rem;
+  }
+  
+  .icon:hover {
+    color: #ff4c68; 
+  }
+
+  /* Testimonial Section */
+
+  #testimonials {
+    background-color:#c060a1 ;
+  }
+
+
+  
+  .testimonial-text {
+    font-size: 3rem;
+    line-height: 1.5;
+  }
+  
+  .testimonial-image {
+    width: 15%;
+    border-radius: 100%;
+    margin: 20px;
+  }
+
+  #press {
+    background-color: #c060a1;
+    padding-bottom: 3%;
+  }
+  
+  .press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+  }
+
+  
+
+  
+
+
+
+  
