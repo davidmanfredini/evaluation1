@@ -1,0 +1,70 @@
+body {
+    background : #6a097d ;
+    font-family: "Open Sans", sans-serif;
+}
+
+.blurb h2 {
+   color:  #c060a1;
+   
+   font-weight: 100;
+   font-size: 2.5rem;
+}
+
+.blurb p {
+    color: #fff;
+    font-weight: 100;
+    font-size: 1.5rem;
+    line-height: 2;
+}
+
+.content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+  }
+  
+  .navbar-brand {
+    font-family: "Montserrat";
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .nav-item {
+    padding: 0 18px;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+    font-family: "Open Sans-Light";
+  }
+
+  #headingGroup h1 {
+    font-weight: 100;
+    font-size: 4rem;
+}
+
+#headingGroup span {
+  color: #EA1C2C;
+}
+
+
+
+
+
+@media (max-width: 1200px) {
+  #headingGroup h1 {
+    font-weight: 100;
+    font-size: 3rem;
+}
+   
+    .blurb h2 {
+        font-size: 2rem;
+    }
+}
+
+
+
+
